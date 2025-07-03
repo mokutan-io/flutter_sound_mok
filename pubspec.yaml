@@ -20,10 +20,10 @@ dependencies:
   flutter:
     sdk: flutter
 # ============================================================================
-  flutter_sound_platform_interface: 9.28.0
+  flutter_sound_platform_interface: 10.3.2
 #    path: ../flutter_sound_platform_interface # Flutter Sound Dir
 
-  flutter_sound_web: 9.28.0
+  flutter_sound_web: 10.3.2
 #    path: ../flutter_sound_web # Flutter Sound Dir
 
 ##  etau: ^0.0.14-alpha.5
